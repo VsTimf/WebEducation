@@ -1,0 +1,42 @@
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1{
+text-transform: uppercase;
+color: indigo;
+margin-bottom: 0px;
+
+}
+
+h2{
+    margin-bottom: 0px;
+    text-transform: uppercase;
+    color: rgb(4, 58, 160);
+}
+
+h5{
+    color: white;
+    font-family: William, calibri;
+    font-size: 14px;
+    margin: 3px;
+    
+}
+
+p{
+    margin-right: 75px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    font-size: 18px;
+}
+
+div{
+    background-image: linear-gradient(to left, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);
+    text-align: center;
+    margin: 0 auto 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
